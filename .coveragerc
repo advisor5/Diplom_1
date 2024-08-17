@@ -1,0 +1,3 @@
+[run]
+
+omit= praktikum/ingredient_types.py, __init__.py
